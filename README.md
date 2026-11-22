@@ -1,1 +1,1 @@
-# sp500-rfm-analysis
+# CW1_Market Analysis and Stock Segmentation Using RFM
