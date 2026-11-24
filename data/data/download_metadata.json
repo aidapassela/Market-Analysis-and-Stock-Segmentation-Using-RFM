@@ -1,8 +1,0 @@
-{
-  "retrieval_date": "2026-11-22",
-  "source": "Yahoo Finance via yfinance",
-  "yfinance_version": "1.8.0",
-  "start": "2021-01-01",
-  "end_exclusive": "2025-01-01",
-  "auto_adjust": false
-}
