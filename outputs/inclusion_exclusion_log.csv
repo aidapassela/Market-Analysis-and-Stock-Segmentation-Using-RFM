@@ -1,0 +1,504 @@
+Ticker,Stage1_Status,Stage1_Reasons,Security,GICS Sector,Stage2_Reason,Final_Status
+MMM,Retained,,3M,Industrials,,Included
+AOS,Retained,,A. O. Smith,Industrials,,Included
+ABT,Retained,,Abbott Laboratories,Health Care,,Included
+ABBV,Retained,,AbbVie,Health Care,,Included
+ACN,Retained,,Accenture,Information Technology,,Included
+ADBE,Retained,,Adobe Inc.,Information Technology,,Included
+AMD,Retained,,Advanced Micro Devices,Information Technology,,Included
+AES,Retained,,AES Corporation,Utilities,,Included
+AFL,Retained,,Aflac,Financials,,Included
+A,Retained,,Agilent Technologies,Health Care,,Included
+APD,Retained,,Air Products,Materials,,Included
+ABNB,Retained,,Airbnb,Consumer Discretionary,,Included
+AKAM,Retained,,Akamai Technologies,Information Technology,,Included
+ALB,Retained,,Albemarle Corporation,Materials,,Included
+ARE,Retained,,Alexandria Real Estate Equities,Real Estate,,Included
+ALGN,Retained,,Align Technology,Health Care,,Included
+ALLE,Retained,,Allegion,Industrials,,Included
+LNT,Retained,,Alliant Energy,Utilities,,Included
+ALL,Retained,,Allstate,Financials,,Included
+GOOGL,Retained,,Alphabet Inc. (Class A),Communication Services,,Included
+GOOG,Retained,,Alphabet Inc. (Class C),Communication Services,,Included
+MO,Retained,,Altria,Consumer Staples,,Included
+AMZN,Retained,,Amazon,Consumer Discretionary,,Included
+AMCR,Retained,,Amcor,Materials,,Included
+AEE,Retained,,Ameren,Utilities,,Included
+AEP,Excluded,R1 no data downloaded,American Electric Power,Utilities,,Excluded
+AXP,Retained,,American Express,Financials,,Included
+AIG,Retained,,American International Group,Financials,,Included
+AMT,Retained,,American Tower,Real Estate,,Included
+AWK,Retained,,American Water Works,Utilities,,Included
+AMP,Retained,,Ameriprise Financial,Financials,,Included
+AME,Retained,,Ametek,Industrials,,Included
+AMGN,Retained,,Amgen,Health Care,,Included
+APH,Retained,,Amphenol,Information Technology,,Included
+ADI,Retained,,Analog Devices,Information Technology,,Included
+AON,Retained,,Aon plc,Financials,,Included
+APA,Retained,,APA Corporation,Energy,,Included
+APO,Retained,,Apollo Global Management,Financials,,Included
+AAPL,Retained,,Apple Inc.,Information Technology,,Included
+AMAT,Retained,,Applied Materials,Information Technology,,Included
+APP,Excluded,R2 missing values / unequal history,AppLovin,Communication Services,,Excluded
+APTV,Retained,,Aptiv,Consumer Discretionary,,Included
+ACGL,Retained,,Arch Capital Group,Financials,,Included
+ADM,Retained,,Archer Daniels Midland,Consumer Staples,,Included
+ARES,Retained,,Ares Management,Financials,,Included
+ANET,Retained,,Arista Networks,Information Technology,,Included
+AJG,Retained,,Arthur J. Gallagher & Co.,Financials,,Included
+AIZ,Retained,,Assurant,Financials,,Included
+T,Retained,,AT&T,Communication Services,,Included
+ATO,Retained,,Atmos Energy,Utilities,,Included
+ADSK,Retained,,Autodesk,Information Technology,,Included
+ADP,Retained,,Automatic Data Processing,Industrials,,Included
+AZO,Retained,,AutoZone,Consumer Discretionary,,Included
+AVY,Retained,,Avery Dennison,Materials,,Included
+AXON,Retained,,Axon Enterprise,Industrials,,Included
+BKR,Retained,,Baker Hughes,Energy,,Included
+BALL,Retained,,Ball Corporation,Materials,,Included
+BAC,Retained,,Bank of America,Financials,,Included
+BAX,Retained,,Baxter International,Health Care,,Included
+BDX,Retained,,Becton Dickinson,Health Care,,Included
+BRK-B,Retained,,Berkshire Hathaway,Financials,,Included
+BBY,Retained,,Best Buy,Consumer Discretionary,,Included
+TECH,Retained,,Bio-Techne,Health Care,,Included
+BIIB,Retained,,Biogen,Health Care,,Included
+BLK,Retained,,BlackRock,Financials,,Included
+BX,Retained,,Blackstone Inc.,Financials,,Included
+XYZ,Retained,,"Block, Inc.",Financials,,Included
+BE,Retained,,Bloom Energy,Industrials,,Included
+BNY,Retained,,BNY Mellon,Financials,,Included
+BA,Retained,,Boeing,Industrials,,Included
+BKNG,Retained,,Booking Holdings,Consumer Discretionary,,Included
+BSX,Retained,,Boston Scientific,Health Care,,Included
+BMY,Retained,,Bristol Myers Squibb,Health Care,,Included
+AVGO,Retained,,Broadcom,Information Technology,,Included
+BR,Retained,,Broadridge Financial Solutions,Industrials,,Included
+BRO,Retained,,Brown & Brown,Financials,,Included
+BF-B,Retained,,Brown–Forman,Consumer Staples,,Included
+BG,Retained,,Bunge Global,Consumer Staples,,Included
+BXP,Retained,,"BXP, Inc.",Real Estate,,Included
+CHRW,Retained,,C.H. Robinson,Industrials,,Included
+CDNS,Retained,,Cadence Design Systems,Information Technology,,Included
+CPT,Retained,,Camden Property Trust,Real Estate,,Included
+COF,Retained,,Capital One,Financials,,Included
+CAH,Retained,,Cardinal Health,Health Care,,Included
+CCL,Retained,,Carnival Corporation,Consumer Discretionary,,Included
+CARR,Retained,,Carrier Global,Industrials,,Included
+CVNA,Retained,,Carvana,Consumer Discretionary,,Included
+CASY,Retained,,Casey's,Consumer Staples,,Included
+CAT,Retained,,Caterpillar Inc.,Industrials,,Included
+CBOE,Retained,,Cboe Global Markets,Financials,,Included
+CBRE,Retained,,CBRE Group,Real Estate,,Included
+CDW,Retained,,CDW Corporation,Information Technology,,Included
+COR,Retained,,Cencora,Health Care,,Included
+CNC,Retained,,Centene Corporation,Health Care,,Included
+CNP,Retained,,CenterPoint Energy,Utilities,,Included
+CF,Retained,,CF Industries,Materials,,Included
+CRL,Retained,,Charles River Laboratories,Health Care,,Included
+SCHW,Retained,,Charles Schwab Corporation,Financials,,Included
+CHTR,Retained,,Charter Communications,Communication Services,,Included
+CVX,Retained,,Chevron Corporation,Energy,,Included
+CMG,Retained,,Chipotle Mexican Grill,Consumer Discretionary,,Included
+CB,Retained,,Chubb Limited,Financials,,Included
+CHD,Retained,,Church & Dwight,Consumer Staples,,Included
+CIEN,Retained,,Ciena,Information Technology,,Included
+CI,Retained,,Cigna,Health Care,,Included
+CINF,Retained,,Cincinnati Financial,Financials,,Included
+CTAS,Retained,,Cintas,Industrials,,Included
+CSCO,Retained,,Cisco,Information Technology,,Included
+C,Retained,,Citigroup,Financials,,Included
+CFG,Retained,,Citizens Financial Group,Financials,,Included
+CLX,Retained,,Clorox,Consumer Staples,,Included
+CME,Retained,,CME Group,Financials,,Included
+CMS,Retained,,CMS Energy,Utilities,,Included
+KO,Retained,,Coca-Cola Company (The),Consumer Staples,,Included
+CTSH,Retained,,Cognizant,Information Technology,,Included
+COHR,Retained,,Coherent Corp.,Information Technology,,Included
+COIN,Excluded,R2 missing values / unequal history,Coinbase,Financials,,Excluded
+CL,Retained,,Colgate-Palmolive,Consumer Staples,,Included
+CMCSA,Retained,,Comcast,Communication Services,,Included
+FIX,Retained,,Comfort Systems USA,Industrials,,Included
+COP,Retained,,ConocoPhillips,Energy,,Included
+ED,Retained,,Consolidated Edison,Utilities,,Included
+STZ,Retained,,Constellation Brands,Consumer Staples,,Included
+CEG,Excluded,R2 missing values / unequal history,Constellation Energy,Utilities,,Excluded
+COO,Retained,,Cooper Companies (The),Health Care,,Included
+CPRT,Retained,,Copart,Industrials,,Included
+GLW,Retained,,Corning Inc.,Information Technology,,Included
+CPAY,Retained,,Corpay,Financials,,Included
+CSGP,Retained,,CoStar Group,Real Estate,,Included
+COST,Retained,,Costco,Consumer Staples,,Included
+CRH,Retained,,CRH plc,Materials,,Included
+CRWD,Retained,,CrowdStrike,Information Technology,,Included
+CCI,Retained,,Crown Castle,Real Estate,,Included
+CSX,Retained,,CSX Corporation,Industrials,,Included
+CMI,Retained,,Cummins,Industrials,,Included
+CVS,Retained,,CVS Health,Health Care,,Included
+DHR,Retained,,Danaher Corporation,Health Care,,Included
+DRI,Retained,,Darden Restaurants,Consumer Discretionary,,Included
+DDOG,Retained,,Datadog,Information Technology,,Included
+DVA,Retained,,DaVita,Health Care,,Included
+DECK,Retained,,Deckers Brands,Consumer Discretionary,,Included
+DE,Retained,,Deere & Company,Industrials,,Included
+DELL,Retained,,Dell Technologies,Information Technology,,Included
+DAL,Retained,,Delta Air Lines,Industrials,,Included
+DVN,Retained,,Devon Energy,Energy,,Included
+DXCM,Retained,,Dexcom,Health Care,,Included
+FANG,Retained,,Diamondback Energy,Energy,,Included
+DLR,Retained,,Digital Realty,Real Estate,,Included
+DG,Retained,,Dollar General,Consumer Staples,,Included
+DLTR,Retained,,Dollar Tree,Consumer Staples,,Included
+D,Retained,,Dominion Energy,Utilities,,Included
+DPZ,Retained,,Domino's,Consumer Discretionary,,Included
+DASH,Retained,,DoorDash,Consumer Discretionary,,Included
+DOV,Retained,,Dover Corporation,Industrials,,Included
+DOW,Retained,,Dow Inc.,Materials,,Included
+DHI,Retained,,D. R. Horton,Consumer Discretionary,,Included
+DTE,Retained,,DTE Energy,Utilities,,Included
+DUK,Retained,,Duke Energy,Utilities,,Included
+DD,Retained,,DuPont,Industrials,,Included
+ETN,Retained,,Eaton Corporation,Industrials,,Included
+EBAY,Retained,,eBay Inc.,Consumer Discretionary,,Included
+ECHO,Retained,,EchoStar,Communication Services,,Included
+ECL,Retained,,Ecolab,Materials,,Included
+EIX,Retained,,Edison International,Utilities,,Included
+EW,Retained,,Edwards Lifesciences,Health Care,,Included
+ELV,Retained,,Elevance Health,Health Care,,Included
+EME,Retained,,Emcor,Industrials,,Included
+EMR,Retained,,Emerson Electric,Industrials,,Included
+ETR,Retained,,Entergy,Utilities,,Included
+EOG,Retained,,EOG Resources,Energy,,Included
+EQT,Retained,,EQT Corporation,Energy,,Included
+EFX,Retained,,Equifax,Industrials,,Included
+EQIX,Retained,,Equinix,Real Estate,,Included
+ERIE,Retained,,Erie Indemnity,Financials,,Included
+ESS,Retained,,Essex Property Trust,Real Estate,,Included
+EL,Retained,,Estée Lauder Companies (The),Consumer Staples,,Included
+EG,Retained,,Everest Group,Financials,,Included
+EVRG,Retained,,Evergy,Utilities,,Included
+P,Retained,,Everpure,Information Technology,,Included
+ES,Retained,,Eversource Energy,Utilities,,Included
+EXC,Retained,,Exelon,Utilities,,Included
+EXE,Excluded,R2 missing values / unequal history,Expand Energy,Energy,,Excluded
+EXPE,Retained,,Expedia Group,Consumer Discretionary,,Included
+EXPD,Retained,,Expeditors International,Industrials,,Included
+EXR,Retained,,Extra Space Storage,Real Estate,,Included
+XOM,Retained,,ExxonMobil,Energy,,Included
+FFIV,Retained,,"F5, Inc.",Information Technology,,Included
+FDS,Retained,,FactSet,Financials,,Included
+FICO,Retained,,Fair Isaac,Information Technology,,Included
+FAST,Retained,,Fastenal,Industrials,,Included
+FRT,Retained,,Federal Realty Investment Trust,Real Estate,,Included
+FDX,Retained,,FedEx,Industrials,,Included
+FDXF,Excluded,R1 no data downloaded,FedEx Freight,Industrials,,Excluded
+FERG,Excluded,R5 zero-volume day(s),Ferguson Enterprises,Industrials,,Excluded
+FIS,Retained,,Fidelity National Information Services,Financials,,Included
+FITB,Retained,,Fifth Third Bancorp,Financials,,Included
+FSLR,Retained,,First Solar,Information Technology,,Included
+FE,Retained,,FirstEnergy,Utilities,,Included
+FISV,Retained,,Fiserv,Financials,,Included
+FLEX,Retained,,Flex Ltd.,Information Technology,,Included
+F,Retained,,Ford Motor Company,Consumer Discretionary,,Included
+FTNT,Retained,,Fortinet,Information Technology,,Included
+FTV,Retained,,Fortive,Industrials,,Included
+FOXA,Retained,,Fox Corporation (Class A),Communication Services,,Included
+FOX,Retained,,Fox Corporation (Class B),Communication Services,,Included
+BEN,Retained,,Franklin Resources,Financials,,Included
+FCX,Retained,,Freeport-McMoRan,Materials,,Included
+GRMN,Retained,,Garmin,Consumer Discretionary,,Included
+IT,Retained,,Gartner,Information Technology,,Included
+GE,Retained,,GE Aerospace,Industrials,,Included
+GEHC,Excluded,R2 missing values / unequal history,GE HealthCare,Health Care,,Excluded
+GEV,Excluded,R2 missing values / unequal history,GE Vernova,Industrials,,Excluded
+GEN,Retained,,Gen Digital,Information Technology,,Included
+GNRC,Retained,,Generac,Industrials,,Included
+GD,Retained,,General Dynamics,Industrials,,Included
+GIS,Retained,,General Mills,Consumer Staples,,Included
+GM,Retained,,General Motors,Consumer Discretionary,,Included
+GPC,Retained,,Genuine Parts Company,Consumer Discretionary,,Included
+GILD,Retained,,Gilead Sciences,Health Care,,Included
+GPN,Retained,,Global Payments,Financials,,Included
+GL,Retained,,Globe Life,Financials,,Included
+GDDY,Retained,,GoDaddy,Information Technology,,Included
+GS,Retained,,Goldman Sachs,Financials,,Included
+HAL,Retained,,Halliburton,Energy,,Included
+HIG,Retained,,Hartford (The),Financials,,Included
+HAS,Retained,,Hasbro,Consumer Discretionary,,Included
+HCA,Retained,,HCA Healthcare,Health Care,,Included
+DOC,Retained,,Healthpeak Properties,Real Estate,,Included
+HSIC,Retained,,Henry Schein,Health Care,,Included
+HSY,Retained,,Hershey Company (The),Consumer Staples,,Included
+HPE,Retained,,Hewlett Packard Enterprise,Information Technology,,Included
+HLT,Retained,,Hilton Worldwide,Consumer Discretionary,,Included
+HD,Retained,,Home Depot (The),Consumer Discretionary,,Included
+HONA,Excluded,R1 no data downloaded,Honeywell Aerospace,Industrials,,Excluded
+HON,Retained,,Honeywell Technologies,Industrials,,Included
+HRL,Retained,,Hormel Foods,Consumer Staples,,Included
+HST,Retained,,Host Hotels & Resorts,Real Estate,,Included
+HWM,Retained,,Howmet Aerospace,Industrials,,Included
+HPQ,Retained,,HP Inc.,Information Technology,,Included
+HUBB,Retained,,Hubbell Incorporated,Industrials,,Included
+HUM,Retained,,Humana,Health Care,,Included
+HBAN,Retained,,Huntington Bancshares,Financials,,Included
+HII,Retained,,Huntington Ingalls Industries,Industrials,,Included
+IBM,Retained,,IBM,Information Technology,,Included
+IEX,Retained,,IDEX Corporation,Industrials,,Included
+IDXX,Retained,,Idexx Laboratories,Health Care,,Included
+ITW,Retained,,Illinois Tool Works,Industrials,,Included
+ILMN,Retained,,"Illumina, Inc.",Health Care,,Included
+INCY,Retained,,Incyte,Health Care,,Included
+IR,Retained,,Ingersoll Rand,Industrials,,Included
+PODD,Retained,,Insulet Corporation,Health Care,,Included
+INTC,Retained,,Intel,Information Technology,,Included
+IBKR,Retained,,Interactive Brokers,Financials,,Included
+ICE,Retained,,Intercontinental Exchange,Financials,,Included
+IFF,Retained,,International Flavors & Fragrances,Materials,,Included
+IP,Retained,,International Paper,Materials,,Included
+INTU,Retained,,Intuit,Information Technology,,Included
+ISRG,Retained,,Intuitive Surgical,Health Care,,Included
+IVZ,Retained,,Invesco,Financials,,Included
+INVH,Retained,,Invitation Homes,Real Estate,,Included
+IQV,Retained,,IQVIA,Health Care,,Included
+IRM,Retained,,Iron Mountain,Real Estate,,Included
+JBHT,Retained,,J.B. Hunt,Industrials,,Included
+JBL,Retained,,Jabil,Information Technology,,Included
+JKHY,Retained,,Jack Henry & Associates,Financials,,Included
+J,Retained,,Jacobs Solutions,Industrials,,Included
+JNJ,Retained,,Johnson & Johnson,Health Care,,Included
+JCI,Retained,,Johnson Controls,Industrials,,Included
+JPM,Retained,,JPMorgan Chase,Financials,,Included
+KDP,Retained,,Keurig Dr Pepper,Consumer Staples,,Included
+KEY,Retained,,KeyCorp,Financials,,Included
+KEYS,Retained,,Keysight Technologies,Information Technology,,Included
+KMB,Retained,,Kimberly-Clark,Consumer Staples,,Included
+KIM,Retained,,Kimco Realty,Real Estate,,Included
+KMI,Retained,,Kinder Morgan,Energy,,Included
+KKR,Retained,,KKR & Co.,Financials,,Included
+KLAC,Retained,,KLA Corporation,Information Technology,,Included
+KHC,Retained,,Kraft Heinz,Consumer Staples,,Included
+KR,Retained,,Kroger,Consumer Staples,,Included
+LHX,Retained,,L3Harris,Industrials,,Included
+LH,Retained,,Labcorp,Health Care,,Included
+LRCX,Retained,,Lam Research,Information Technology,,Included
+LVS,Retained,,Las Vegas Sands,Consumer Discretionary,,Included
+LDOS,Retained,,Leidos,Industrials,,Included
+LEN,Retained,,Lennar,Consumer Discretionary,,Included
+LII,Retained,,Lennox International,Industrials,,Included
+LLY,Retained,,Lilly (Eli),Health Care,,Included
+LIN,Retained,,Linde plc,Materials,,Included
+LYV,Retained,,Live Nation Entertainment,Communication Services,,Included
+LMT,Retained,,Lockheed Martin,Industrials,,Included
+L,Retained,,Loews Corporation,Financials,,Included
+LOW,Retained,,Lowe's,Consumer Discretionary,,Included
+LULU,Retained,,Lululemon Athletica,Consumer Discretionary,,Included
+LITE,Retained,,Lumentum,Information Technology,,Included
+LYB,Retained,,LyondellBasell,Materials,,Included
+MTB,Retained,,M&T Bank,Financials,,Included
+MPC,Retained,,Marathon Petroleum,Energy,,Included
+MAR,Retained,,Marriott International,Consumer Discretionary,,Included
+MRSH,Retained,,Marsh McLennan,Financials,,Included
+MLM,Retained,,Martin Marietta Materials,Materials,,Included
+MRVL,Retained,,Marvell Technology,Information Technology,,Included
+MAS,Retained,,Masco,Industrials,,Included
+MA,Retained,,Mastercard,Financials,,Included
+MKC,Retained,,McCormick & Company,Consumer Staples,,Included
+MCD,Retained,,McDonald's,Consumer Discretionary,,Included
+MCK,Retained,,McKesson,Health Care,,Included
+MDT,Retained,,Medtronic,Health Care,,Included
+MRK,Retained,,Merck & Co.,Health Care,,Included
+META,Retained,,Meta Platforms,Communication Services,,Included
+MET,Retained,,MetLife,Financials,,Included
+MTD,Retained,,Mettler Toledo,Health Care,,Included
+MGM,Retained,,MGM Resorts,Consumer Discretionary,,Included
+MCHP,Retained,,Microchip Technology,Information Technology,,Included
+MU,Retained,,Micron Technology,Information Technology,,Included
+MSFT,Retained,,Microsoft,Information Technology,,Included
+MAA,Retained,,Mid-America Apartment Communities,Real Estate,,Included
+MRNA,Retained,,Moderna,Health Care,,Included
+MDLZ,Retained,,Mondelez International,Consumer Staples,,Included
+MPWR,Retained,,Monolithic Power Systems,Information Technology,,Included
+MNST,Retained,,Monster Beverage,Consumer Staples,,Included
+MCO,Retained,,Moody's Corporation,Financials,,Included
+MS,Retained,,Morgan Stanley,Financials,,Included
+MOS,Retained,,Mosaic Company (The),Materials,,Included
+MSI,Retained,,Motorola Solutions,Information Technology,,Included
+MSCI,Retained,,MSCI,Financials,,Included
+NDAQ,Retained,,"Nasdaq, Inc.",Financials,,Included
+NTAP,Retained,,NetApp,Information Technology,,Included
+NFLX,Retained,,Netflix,Communication Services,,Included
+NEM,Retained,,Newmont,Materials,,Included
+NWSA,Retained,,News Corp (Class A),Communication Services,,Included
+NWS,Retained,,News Corp (Class B),Communication Services,,Included
+NEE,Retained,,NextEra Energy,Utilities,,Included
+NKE,Retained,,"Nike, Inc.",Consumer Discretionary,,Included
+NI,Retained,,NiSource,Utilities,,Included
+NDSN,Retained,,Nordson Corporation,Industrials,,Included
+NSC,Retained,,Norfolk Southern,Industrials,,Included
+NTRS,Retained,,Northern Trust,Financials,,Included
+NOC,Retained,,Northrop Grumman,Industrials,,Included
+NCLH,Retained,,Norwegian Cruise Line Holdings,Consumer Discretionary,,Included
+NRG,Retained,,NRG Energy,Utilities,,Included
+NUE,Retained,,Nucor,Materials,,Included
+NVDA,Retained,,Nvidia,Information Technology,,Included
+NVR,Retained,,"NVR, Inc.",Consumer Discretionary,,Included
+NXPI,Retained,,NXP Semiconductors,Information Technology,,Included
+ORLY,Retained,,O'Reilly Automotive,Consumer Discretionary,,Included
+OXY,Retained,,Occidental Petroleum,Energy,,Included
+OKTA,Retained,,"Okta, Inc.",Information Technology,,Included
+ODFL,Retained,,Old Dominion,Industrials,,Included
+OMC,Retained,,Omnicom Group,Communication Services,,Included
+ON,Retained,,ON Semiconductor,Information Technology,,Included
+OKE,Retained,,Oneok,Energy,,Included
+ORCL,Retained,,Oracle Corporation,Information Technology,,Included
+OTIS,Retained,,Otis Worldwide,Industrials,,Included
+PCAR,Retained,,Paccar,Industrials,,Included
+PKG,Retained,,Packaging Corporation of America,Materials,,Included
+PLTR,Retained,,Palantir Technologies,Information Technology,,Included
+PANW,Retained,,Palo Alto Networks,Information Technology,,Included
+PH,Retained,,Parker Hannifin,Industrials,,Included
+PAYX,Retained,,Paychex,Industrials,,Included
+PYPL,Retained,,PayPal,Financials,,Included
+PNR,Retained,,Pentair,Industrials,,Included
+PEP,Retained,,PepsiCo,Consumer Staples,,Included
+PFE,Retained,,Pfizer,Health Care,,Included
+PCG,Retained,,PG&E Corporation,Utilities,,Included
+PM,Retained,,Philip Morris International,Consumer Staples,,Included
+PSX,Retained,,Phillips 66,Energy,,Included
+PNW,Retained,,Pinnacle West Capital,Utilities,,Included
+PNC,Retained,,PNC Financial Services,Financials,,Included
+PPG,Retained,,PPG Industries,Materials,,Included
+PPL,Retained,,PPL Corporation,Utilities,,Included
+PFG,Retained,,Principal Financial Group,Financials,,Included
+PG,Retained,,Procter & Gamble,Consumer Staples,,Included
+PGR,Retained,,Progressive Corporation,Financials,,Included
+PLD,Retained,,Prologis,Real Estate,,Included
+PRU,Retained,,Prudential Financial,Financials,,Included
+PTC,Retained,,PTC Inc.,Information Technology,,Included
+PEG,Retained,,Public Service Enterprise Group,Utilities,,Included
+PSA,Retained,,Public Storage,Real Estate,,Included
+PHM,Retained,,PulteGroup,Consumer Discretionary,,Included
+Q,Excluded,R1 no data downloaded,Qnity Electronics,Information Technology,,Excluded
+QCOM,Retained,,Qualcomm,Information Technology,,Included
+PWR,Retained,,Quanta Services,Industrials,,Included
+DGX,Retained,,Quest Diagnostics,Health Care,,Included
+RL,Retained,,Ralph Lauren Corporation,Consumer Discretionary,,Included
+RJF,Retained,,Raymond James Financial,Financials,,Included
+RDDT,Excluded,R2 missing values / unequal history,Reddit,Communication Services,,Excluded
+O,Retained,,Realty Income,Real Estate,,Included
+REG,Retained,,Regency Centers,Real Estate,,Included
+REGN,Retained,,Regeneron Pharmaceuticals,Health Care,,Included
+RF,Retained,,Regions Financial Corporation,Financials,,Included
+RSG,Retained,,Republic Services,Industrials,,Included
+RMD,Retained,,ResMed,Health Care,,Included
+RVTY,Retained,,Revvity,Health Care,,Included
+HOOD,Excluded,R2 missing values / unequal history,Robinhood Markets,Financials,,Excluded
+ROK,Retained,,Rockwell Automation,Industrials,,Included
+ROL,Retained,,"Rollins, Inc.",Industrials,,Included
+ROP,Retained,,Roper Technologies,Information Technology,,Included
+ROST,Retained,,Ross Stores,Consumer Discretionary,,Included
+RCL,Retained,,Royal Caribbean Group,Consumer Discretionary,,Included
+RTX,Retained,,RTX Corporation,Industrials,,Included
+SPGI,Retained,,S&P Global,Financials,,Included
+CRM,Retained,,Salesforce,Information Technology,,Included
+SNDK,Excluded,R1 no data downloaded,Sandisk,Information Technology,,Excluded
+SBAC,Retained,,SBA Communications,Real Estate,,Included
+SLB,Retained,,Schlumberger,Energy,,Included
+STX,Retained,,Seagate Technology,Information Technology,,Included
+SRE,Retained,,Sempra,Utilities,,Included
+NOW,Retained,,ServiceNow,Information Technology,,Included
+SHW,Retained,,Sherwin-Williams,Materials,,Included
+SPG,Retained,,Simon Property Group,Real Estate,,Included
+SKYD,Retained,,Skydance,Communication Services,,Included
+SWKS,Retained,,Skyworks Solutions,Information Technology,,Included
+SJM,Retained,,J.M. Smucker Company (The),Consumer Staples,,Included
+SW,Excluded,R5 zero-volume day(s),Smurfit Westrock,Materials,,Excluded
+SNA,Retained,,Snap-on,Industrials,,Included
+SOLV,Excluded,R2 missing values / unequal history,Solventum,Health Care,,Excluded
+SO,Retained,,Southern Company,Utilities,,Included
+LUV,Retained,,Southwest Airlines,Industrials,,Included
+SWK,Retained,,Stanley Black & Decker,Industrials,,Included
+SBUX,Retained,,Starbucks,Consumer Discretionary,,Included
+STT,Retained,,State Street Corporation,Financials,,Included
+STLD,Retained,,Steel Dynamics,Materials,,Included
+STE,Retained,,Steris,Health Care,,Included
+SYK,Retained,,Stryker Corporation,Health Care,,Included
+SMCI,Retained,,Supermicro,Information Technology,,Included
+SYF,Retained,,Synchrony Financial,Financials,,Included
+SNPS,Retained,,Synopsys,Information Technology,,Included
+SYY,Retained,,Sysco,Consumer Staples,,Included
+TMUS,Retained,,T-Mobile US,Communication Services,,Included
+TROW,Retained,,T. Rowe Price,Financials,,Included
+TTWO,Retained,,Take-Two Interactive,Communication Services,,Included
+TPR,Retained,,"Tapestry, Inc.",Consumer Discretionary,,Included
+TRGP,Retained,,Targa Resources,Energy,,Included
+TGT,Retained,,Target Corporation,Consumer Staples,,Included
+TEL,Retained,,TE Connectivity,Information Technology,,Included
+TDY,Retained,,Teledyne Technologies,Information Technology,,Included
+TER,Retained,,Teradyne,Information Technology,,Included
+TSLA,Retained,,"Tesla, Inc.",Consumer Discretionary,,Included
+TXN,Retained,,Texas Instruments,Information Technology,,Included
+TPL,Retained,,Texas Pacific Land Corporation,Energy,,Included
+TXT,Retained,,Textron,Industrials,,Included
+TMO,Retained,,Thermo Fisher Scientific,Health Care,,Included
+TJX,Retained,,TJX Companies,Consumer Discretionary,,Included
+TKO,Retained,,TKO Group Holdings,Communication Services,,Included
+TSCO,Retained,,Tractor Supply,Consumer Discretionary,,Included
+TT,Retained,,Trane Technologies,Industrials,,Included
+TDG,Retained,,TransDigm Group,Industrials,,Included
+TRV,Retained,,Travelers Companies (The),Financials,,Included
+TRMB,Retained,,Trimble Inc.,Information Technology,,Included
+TFC,Retained,,Truist Financial,Financials,,Included
+TWLO,Retained,,Twilio,Information Technology,,Included
+TYL,Retained,,Tyler Technologies,Information Technology,,Included
+TSN,Retained,,Tyson Foods,Consumer Staples,,Included
+USB,Retained,,U.S. Bancorp,Financials,,Included
+UBER,Retained,,Uber,Industrials,,Included
+UDR,Retained,,"UDR, Inc.",Real Estate,,Included
+ULTA,Retained,,Ulta Beauty,Consumer Discretionary,,Included
+UNP,Retained,,Union Pacific Corporation,Industrials,,Included
+UAL,Retained,,United Airlines Holdings,Industrials,,Included
+UPS,Retained,,United Parcel Service,Industrials,,Included
+URI,Retained,,United Rentals,Industrials,,Included
+UNH,Retained,,UnitedHealth Group,Health Care,,Included
+UHS,Retained,,Universal Health Services,Health Care,,Included
+VLO,Retained,,Valero Energy,Energy,,Included
+VEEV,Retained,,Veeva Systems,Health Care,,Included
+VTR,Retained,,Ventas,Real Estate,,Included
+VLTO,Excluded,R2 missing values / unequal history,Veralto,Industrials,,Excluded
+VRSN,Retained,,Verisign,Information Technology,,Included
+VRSK,Retained,,Verisk Analytics,Industrials,,Included
+VZ,Retained,,Verizon,Communication Services,,Included
+VRTX,Retained,,Vertex Pharmaceuticals,Health Care,,Included
+VRT,Retained,,Vertiv,Industrials,,Included
+VTRS,Retained,,Viatris,Health Care,,Included
+VICI,Retained,,Vici Properties,Real Estate,,Included
+V,Retained,,Visa Inc.,Financials,,Included
+VST,Retained,,Vistra Corp.,Utilities,,Included
+VMRK,Retained,,Vivmark Residential,Real Estate,,Included
+VMC,Retained,,Vulcan Materials Company,Materials,,Included
+VYLR,Excluded,R1 no data downloaded,Vylor,Consumer Staples,,Excluded
+WRB,Retained,,W. R. Berkley Corporation,Financials,,Included
+GWW,Retained,,W. W. Grainger,Industrials,,Included
+WAB,Retained,,Wabtec,Industrials,,Included
+WMT,Retained,,Walmart,Consumer Staples,,Included
+DIS,Retained,,Walt Disney Company (The),Communication Services,,Included
+WM,Retained,,Waste Management,Industrials,,Included
+WAT,Retained,,Waters Corporation,Health Care,,Included
+WEC,Retained,,WEC Energy Group,Utilities,,Included
+WFC,Retained,,Wells Fargo,Financials,,Included
+WELL,Retained,,Welltower,Real Estate,,Included
+WST,Retained,,West Pharmaceutical Services,Health Care,,Included
+WDC,Retained,,Western Digital,Information Technology,,Included
+WY,Retained,,Weyerhaeuser,Real Estate,,Included
+WSM,Retained,,"Williams-Sonoma, Inc.",Consumer Discretionary,,Included
+WMB,Retained,,Williams Companies,Energy,,Included
+WTW,Retained,,Willis Towers Watson,Financials,,Included
+WDAY,Retained,,"Workday, Inc.",Information Technology,,Included
+WYNN,Retained,,Wynn Resorts,Consumer Discretionary,,Included
+XEL,Retained,,Xcel Energy,Utilities,,Included
+XYL,Retained,,Xylem Inc.,Industrials,,Included
+YUM,Retained,,Yum! Brands,Consumer Discretionary,,Included
+ZBRA,Retained,,Zebra Technologies,Information Technology,,Included
+ZBH,Retained,,Zimmer Biomet,Health Care,,Included
+ZTS,Retained,,Zoetis,Health Care,,Included

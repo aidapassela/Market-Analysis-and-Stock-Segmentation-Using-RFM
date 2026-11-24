@@ -1,0 +1,2 @@
+benchmark_key,ticker,name,source,retrieval_date
+GSPC,^GSPC,S&P 500,Yahoo Finance via yfinance,2026-11-22
